@@ -16,3 +16,5 @@ move file betty
 
 remove the betty file
 
+Deleted my_first_directory
+
