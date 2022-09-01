@@ -14,3 +14,5 @@ Created a directory in /tmp/ directory
 
 move file betty
 
+remove the betty file
+
