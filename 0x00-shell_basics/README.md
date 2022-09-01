@@ -24,3 +24,5 @@ listing directories including boot
 
 Type of file
 
+Symbolic link created
+
