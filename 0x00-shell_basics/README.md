@@ -1,2 +1,3 @@
-pwd -P prints the absolute path name of the current working directory
+Created a repo for the shell task 
+ Display content in 1-listit file
 
