@@ -12,3 +12,5 @@ Script that prints contents in long format, numerically and show hidden files
 
 Created a directory in /tmp/ directory
 
+move file betty
+
