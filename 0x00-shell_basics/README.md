@@ -18,3 +18,5 @@ remove the betty file
 
 Deleted my_first_directory
 
+change working directory to previous one
+
