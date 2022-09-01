@@ -22,3 +22,5 @@ change working directory to previous one
 
 listing directories including boot
 
+Type of file
+
