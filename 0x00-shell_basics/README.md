@@ -4,3 +4,5 @@ Created a repo for the shell task
 
 Changed working directory to user's home directory
 
+Display current directory's content in a long format
+
