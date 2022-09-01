@@ -8,3 +8,5 @@ Display current directory's content in a long format
 
 Display all current directory's contents including hidden files
 
+Script that prints contents in long format, numerically and show hidden files
+
