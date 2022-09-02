@@ -26,3 +26,5 @@ Type of file
 
 Symbolic link created
 
+Copy html files
+
